@@ -1,4 +1,4 @@
-mathomatic
+Math'O'Matic
 ==========
 
-Math'O'Matic. A simple PHP library for learn OOP and some Math.
+A simple PHP library for learn OOP and some Math.
